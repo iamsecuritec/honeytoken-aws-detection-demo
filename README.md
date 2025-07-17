@@ -17,9 +17,6 @@ Ce projet démontre comment simuler une fuite d'un secret AWS à l'aide d'un hon
 3. Publication dans un dépôt public GitHub
 4. Observation des alertes générées (100+ en moins de 30 minutes)
 
-## 📸 Captures
-
-📂 Voir le dossier `/screenshots` ou le fichier `documentation-fr.pdf`.
 
 ## 🧠 Auteur
 
