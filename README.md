@@ -30,7 +30,7 @@ Antonio Ferreira – Spécialiste sécurité IAM & Cloud
 
 📄 Télécharger la documentation PDF
 
-👉 [Télécharger le guide complet en PDF](docs/honeytoken-guide.pdf)
+👉 [Télécharger le guide complet en PDF](docs/Documentation_honeytoken-guide.pdf)
 
 ## 📸 Captures d'écran (Étapes clés)
 
