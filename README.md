@@ -30,7 +30,7 @@ Antonio Ferreira – Consultant IAM & DevSecOps
 
 ⚠️ Ce projet est uniquement à des fins de démonstration éducative.
 
-##📘 Documentation complète
+📘 Documentation complète
 
 ## 📸 Captures d'écran (Étapes clés)
 
