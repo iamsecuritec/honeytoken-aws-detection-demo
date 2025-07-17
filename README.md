@@ -46,7 +46,10 @@ Voici les principales étapes illustrées avec des captures réelles du test.
 ### 3.	Une fois connecté, GitGuardian commencera automatiquement à surveiller vos dépôts publics si l'intégration GitHub est activée.
 ![Étape 2](screenshots/2.png)
 
-### Étape 3 – Visualisation de la clé générée
+### Étape 3 - Créer un honeytoken
+1.	Cliquez sur Honeytokens dans le menu latéral.
+2.	Cliquez sur "Create Honeytoken".
+
 ![Étape 3](screenshots/3.png)
 
 ### Étape 4 – Insertion dans GitHub (.env)
