@@ -24,7 +24,7 @@ Ce projet démontre comment simuler une fuite d'un secret AWS à l'aide d'un hon
 ## 🧠 Auteur
 
 Antonio Ferreira – Consultant IAM & DevSecOps  
-🔗 [linkedin.com/in/antonio-ferreira](https://linkedin.com/in/antonio-ferreira)
+🔗 [linkedin.com/in/antonio-ferreira](https://www.linkedin.com/in/antoniofos/)
 
 ---
 
