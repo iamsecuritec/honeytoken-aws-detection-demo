@@ -1,4 +1,3 @@
-# honeytoken-aws-detection-demo
 
 # 🛡️ Simulation de fuite de clé AWS avec GitGuardian Honeytoken
 
