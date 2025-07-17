@@ -86,10 +86,10 @@ Si un acteur externe tente d'utiliser la clé, une alerte immédiate sera décle
 
 ![Étape 8](screenshots/8.png)
 
-### Étape 9 – Vue d'ensemble des événements
+### Vue d'ensemble des événements
 ![Étape 9](screenshots/9.png)
 
-### Étape 10 – Tentatives de privilèges
+### Tentatives de privilèges
 ![Étape 10](screenshots/10.png)
 
 ### Étape 11 – Révocation du token
