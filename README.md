@@ -37,7 +37,10 @@ Antonio Ferreira – Intégrateur d'applications | Spécialiste en authentificat
 
 Voici les principales étapes illustrées avec des captures réelles du test.
 
-### Étape 1 – Connexion à GitGuardian
+### Étape 1 – Créer un compte GitGuardian
+1.	Rendez-vous sur https://dashboard.gitguardian.com
+2.	Créez un compte gratuit ou connectez-vous avec votre compte GitHub.
+ 
 ![Étape 1](screenshots/1.png)
 
 ### Étape 2 – Création du honeytoken
