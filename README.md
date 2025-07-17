@@ -32,4 +32,4 @@ Antonio Ferreira – Consultant IAM & DevSecOps
 
 📘 Documentation complète
 
-👉 [Voir le guide avec instructions + images](docs/honeytoken-guide.md)
+👉 [Voir le guide avec instructions + images](docs/setup.md)
