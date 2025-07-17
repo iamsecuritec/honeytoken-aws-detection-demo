@@ -57,7 +57,10 @@ Voici les principales étapes illustrées avec des captures réelles du test.
 
 ![Étape 4](screenshots/4.png)
 
-### Étape 5 – Confirmation du commit
+GitGuardian générera une fausse clé AWS sous forme de :
+AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXEMPLE
+AWS_SECRET_ACCESS_KEY=gg-honey-xxxxxxxxxxxxxxxxxxxxxxxx
+
 ![Étape 5](screenshots/5.png)
 
 ### Étape 6 – Détection par GitGuardian
