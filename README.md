@@ -76,7 +76,14 @@ Astuce : ajoutez un commentaire dans le fichier pour tromper les bots, comme “
 
 ![Étape 7](screenshots/7.png)
 
-### Étape 8 – Analyse des IPs et User-Agent
+### Étape 4 – Surveillance par GitGuardian
+Dès que le dépôt est mis à jour, GitGuardian commence à le surveiller.
+Si un acteur externe tente d'utiliser la clé, une alerte immédiate sera déclenchée avec :
+•	IP de l’attaquant
+•	Pays d’origine
+•	Outil utilisé (user-agent)
+•	Appel AWS effectué
+
 ![Étape 8](screenshots/8.png)
 
 ### Étape 9 – Vue d'ensemble des événements
