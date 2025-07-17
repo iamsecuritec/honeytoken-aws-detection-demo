@@ -31,7 +31,9 @@ Antonio Ferreira – Intégrateur d'applications | Spécialiste en authentificat
 
 ⚠️ Ce projet est uniquement à des fins de démonstration éducative.
 
-📘 Documentation complète
+📄 Télécharger la documentation PDF
+
+👉 [Télécharger le guide complet en PDF](docs/honeytoken-guide.pdf)
 
 ## 📸 Captures d'écran (Étapes clés)
 
