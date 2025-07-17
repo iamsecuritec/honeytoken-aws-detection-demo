@@ -30,12 +30,3 @@ Antonio Ferreira – Consultant IAM & DevSecOps
 
 ⚠️ Ce projet est uniquement à des fins de démonstration éducative.
 
-## 📘 Documentation complète
-
-👉 [Télécharger le guide complet avec instructions + captures d'écran](./documentation-fr.docx)
-
-Ce document contient :
-- Toutes les étapes détaillées
-- Des captures d’écran annotées
-- L’analyse des attaques détectées via le honeytoken
-- Un tableau explicatif des actions AWS interceptées
