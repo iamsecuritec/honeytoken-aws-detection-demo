@@ -52,7 +52,9 @@ Voici les principales étapes illustrées avec des captures réelles du test.
 
 ![Étape 3](screenshots/3.png)
 
-### Étape 4 – Insertion dans GitHub (.env)
+### 3.	Donnez un nom et une description à votre token (ex. : aws-dev-key-test).
+4.	Cliquez sur “Create”.
+
 ![Étape 4](screenshots/4.png)
 
 ### Étape 5 – Confirmation du commit
