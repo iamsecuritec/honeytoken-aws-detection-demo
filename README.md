@@ -43,7 +43,7 @@ Voici les principales étapes illustrées avec des captures réelles du test.
  
 ![Étape 1](screenshots/1.png)
 
-### 3.	Une fois connecté, GitGuardian commencera automatiquement à surveiller vos dépôts publics si l'intégration GitHub est activée.
+3.	Une fois connecté, GitGuardian commencera automatiquement à surveiller vos dépôts publics si l'intégration GitHub est activée.
 ![Étape 2](screenshots/2.png)
 
 ### Étape 3 - Créer un honeytoken
