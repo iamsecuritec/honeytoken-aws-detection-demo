@@ -57,7 +57,7 @@ Voici les principales étapes illustrées avec des captures réelles du test.
 
 ![Étape 4](screenshots/4.png)
 
-GitGuardian générera une fausse clé AWS sous forme de :
+5. GitGuardian générera une fausse clé AWS sous forme de :
 AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXEMPLE
 AWS_SECRET_ACCESS_KEY=gg-honey-xxxxxxxxxxxxxxxxxxxxxxxx
 
