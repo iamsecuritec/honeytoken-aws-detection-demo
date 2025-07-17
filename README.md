@@ -30,42 +30,12 @@ Antonio Ferreira – Consultant IAM & DevSecOps
 
 ⚠️ Ce projet est uniquement à des fins de démonstration éducative.
 
-## 📸 Captures d'écran (Étapes clés)
+## 📘 Documentation complète
 
-Voici les principales étapes illustrées avec des captures réelles du test.
+👉 [Télécharger le guide complet avec instructions + captures d'écran](./documentation-fr.docx)
 
-### Étape 1 – Connexion à GitGuardian
-![Étape 1](screenshots/1.png)
-
-### Étape 2 – Création du honeytoken
-![Étape 2](screenshots/2.png)
-
-### Étape 3 – Visualisation de la clé générée
-![Étape 3](screenshots/3.png)
-
-### Étape 4 – Insertion dans GitHub (.env)
-![Étape 4](screenshots/4.png)
-
-### Étape 5 – Confirmation du commit
-![Étape 5](screenshots/5.png)
-
-### Étape 6 – Détection par GitGuardian
-![Étape 6](screenshots/6.png)
-
-### Étape 7 – Alertes reçues (exemple)
-![Étape 7](screenshots/7.png)
-
-### Étape 8 – Analyse des IPs et User-Agent
-![Étape 8](screenshots/8.png)
-
-### Étape 9 – Vue d'ensemble des événements
-![Étape 9](screenshots/9.png)
-
-### Étape 10 – Tentatives de privilèges
-![Étape 10](screenshots/10.png)
-
-### Étape 11 – Révocation du token
-![Étape 11](screenshots/11.png)
-
-### Étape 12 – Clôture et bilan du test
-![Étape 12](screenshots/12.png)
+Ce document contient :
+- Toutes les étapes détaillées
+- Des captures d’écran annotées
+- L’analyse des attaques détectées via le honeytoken
+- Un tableau explicatif des actions AWS interceptées
