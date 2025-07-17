@@ -32,8 +32,6 @@ Antonio Ferreira – Consultant IAM & DevSecOps
 
 📘 Documentation complète
 
-👉 [Voir le guide avec instructions + images](docs/setup.md)
-
 ## 📸 Captures d'écran (Étapes clés)
 
 Voici les principales étapes illustrées avec des captures réelles du test.
