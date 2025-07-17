@@ -70,7 +70,10 @@ Exemple : https://github.com/iamsecuritec/azure-ad-demo-public
 
 ![Étape 6](screenshots/6.png)
 
-### Étape 7 – Alertes reçues (exemple)
+3.	Collez le contenu du honeytoken en le rendant crédible :
+4.	Faites un commit :
+Astuce : ajoutez un commentaire dans le fichier pour tromper les bots, comme “clé temporaire pour test S3”.
+
 ![Étape 7](screenshots/7.png)
 
 ### Étape 8 – Analyse des IPs et User-Agent
