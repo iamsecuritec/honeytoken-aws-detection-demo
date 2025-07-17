@@ -23,7 +23,7 @@ Ce projet démontre comment simuler une fuite d'un secret AWS à l'aide d'un hon
 
 ## 🧠 Auteur
 
-Antonio Ferreira – Intégrateur d'applications | Spécialiste en authentification Azure AD | SSO · OAuth2 · OpenID Connect · SAML · MFA · Microsoft Entra ID · PowerShell
+Antonio Ferreira – Spécialiste sécurité IAM & Cloud
 
 🔗 [linkedin.com/in/antonio-ferreira](https://www.linkedin.com/in/antoniofos/)
 
