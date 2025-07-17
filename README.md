@@ -63,7 +63,11 @@ AWS_SECRET_ACCESS_KEY=gg-honey-xxxxxxxxxxxxxxxxxxxxxxxx
 
 ![Étape 5](screenshots/5.png)
 
-### Étape 6 – Détection par GitGuardian
+### Étape 3 – Injecter le honeytoken dans un dépôt GitHub
+1.	Créez un vrai dépôt public sur GitHub (ou utilisez un existant).
+Exemple : https://github.com/iamsecuritec/azure-ad-demo-public
+2.	Créez un fichier .env 
+
 ![Étape 6](screenshots/6.png)
 
 ### Étape 7 – Alertes reçues (exemple)
